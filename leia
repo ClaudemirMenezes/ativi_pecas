@@ -1,0 +1,27 @@
+/*
+3 Requesitos:
+
+Verificar se a peça possui mais de 100g
+    Sim: Pode cadastrar
+    Não: Não pode cadastrar
+
+Verificar numero de peças cadastradas, e não pode ter mais de 10 peças  
+    Menos de 10: Pode cadastrar
+    10 ou mais peças : Não podemos cadastrar 
+
+Verificar o compromento do nome da peça 
+    Menos de 3 caracteres: Não podemos cadastrar
+    3 ou mais caracteres    
+
+
+// Váriaveis, são um espaço na me,oria para guardae algum valor
+let pesoPeca = 150
+
+//pesoPeca - Camel Case
+//peso_peca - Snake Case
+// PesoPeca - pascal Case
+
+
+ASCII TABLE
+
+*/
